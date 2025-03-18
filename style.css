@@ -1,0 +1,21 @@
+body {
+    color: #EEFF66;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+text {
+    color: #000066;
+    font-style: italic;
+}
+
+hr {
+    background-color: red;
+    border-color: red;
+}
+
+.hetek {
+    display: flex;
+    justify-content: space-between;
+}
